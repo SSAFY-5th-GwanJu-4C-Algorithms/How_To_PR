@@ -9,7 +9,7 @@
 ### 목록
 ##### [1. PR 가이드(GUI 버전) - 현재 문서](#1.-스터디-레포지토리-클릭)
 ##### [2. PR 가이드(CLI 버전) - 익숙해지면 이렇게 하는 게 편해요](https://dev-youngjun.tistory.com/47?category=867656)
-##### [3. Fork 한 repository 최신으로 동기화하기(GUI 버전) - 추천하지 않아요](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser)
+##### [3. Fork 한 repository 최신으로 동기화하기(GUI 버전)](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser)
 ##### [4. Fork 한 repository 최신으로 동기화하기(CLI 버전) - 익숙해지면 추천해요](https://json.postype.com/post/210431)
 ##### [5. Github README.md 파일 작성을 위한 Markdown 문법](https://dev-youngjun.tistory.com/51)
 ##### [6. Git CLI 튜토리얼](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
