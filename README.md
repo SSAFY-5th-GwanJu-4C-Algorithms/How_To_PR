@@ -13,6 +13,7 @@
 ##### [4. Fork 한 repository 최신으로 동기화하기(CLI 버전) - 익숙해지면 추천해요](https://json.postype.com/post/210431)
 ##### [5. Github README.md 파일 작성을 위한 Markdown 문법](https://dev-youngjun.tistory.com/51)
 ##### [6. Git CLI 튜토리얼](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
+##### [7. Git Commit Message 작성하기](https://mulgyeolog.today/Dev%20Basic/[Git]%20git-commit-message-style-guide/)
 
 ---
 ## 1. 스터디 레포지토리 클릭
